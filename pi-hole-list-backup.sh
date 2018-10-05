@@ -12,12 +12,12 @@ sort /etc/pihole/whitelist.txt | sed '/^$/d' > valiceemo-whitelist.txt
 #cp /etc/pihole/regex.list valiceemo-regex.list
 
 # add the new file to git
-git add .
+git add blacklist.txt valiceemo-whitelist.txt valiceemo-regex.list
 
 # commit
 git commit -F blacklist.txt
 git commit -F valiceemo-whitelist.txt
-git commit -Fm "auto commit" valiceemo-regex.list
+git commit -F -m "auto commit" valiceemo-regex.list
 
 # push to github
 git push origin master
