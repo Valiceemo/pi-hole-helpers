@@ -1,5 +1,6 @@
 #!/bin/bash
-
+# Restore default adlist.list
+# Author: Richard Wallace aka Valiceemo
 today=$(date +%Y%m%d_%H%M%S)
 timestamp=$(date +%Y/%m/%d_%H:%M:%S)
 LogFile=/home/pi/logs/pihole.log
