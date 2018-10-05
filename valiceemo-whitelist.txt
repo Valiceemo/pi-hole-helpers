@@ -1,0 +1,81 @@
+adaway.org
+android.clients.google.com
+apresolve.spotify.com
+attestation.xboxlive.com
+bitbucket.org
+bit.ly
+cert.mgt.xboxlive.com
+chrome.google.com
+click.engage.xbox.com
+clientconfig.passport.net
+clients2.google.com
+clients3.google.com
+clients5.google.com
+client-s.gateway.messenger.live.com
+ctldl.windowsupdate.com
+def-vef.xboxlive.com
+device.auth.xboxlive.com
+displaycatalog.mp.microsoft.com
+dl.delivery.mp.microsoft.com
+edge-mqtt.facebook.com
+eds.xboxlive.com
+fabswingers.com
+geo-prod.do.dsp.mp.microsoft.com
+gist.githubusercontent.com
+g.live.com
+goo.gl
+## Google
+google.com
+help.ui.xboxlive.com
+hosts-file.net
+hostsfile.org
+j.mp
+licensing.xboxlive.com
+## Microsoft
+mirror1.malwaredomains.com
+mirror.cedia.org.ec
+## Misc
+netflix.com
+notify.xboxlive.com
+openphish.com
+ow.ly
+placehold.it
+placeholdit.imgix.net
+pornhub.com
+ransomwaretracker.abuse.ch
+raw.githubusercontent.com
+reddestdream.github.io
+s3.amazonaws.com
+settings-win.data.microsoft.com
+someonewhocares.org
+spclient.wg.spotify.com
+## Spotify
+s.youtube.com
+sysctl.org
+title.auth.xboxlive.com
+title.mgt.xboxlive.com
+tomshardware.com
+## URL Shorteners
+v10.events.data.microsoft.com
+v10.vortex-win.data.microsoft.com
+v20.vortex-win.data.microsoft.com
+v.firebog.net
+video-stats.l.google.com
+webcache.googleusercontent.com
+win1710.ipv6.microsoft.com
+winhelp2002.mvps.org
+www.bit.ly
+www.dshield.org
+www.joewein.net
+www.malwaredomainlist.com
+www.msftncsi.com
+www.xboxlive.com
+## X-Box
+xboxexperiencesprod.experimentation.xboxlive.com
+xbox.ipv6.microsoft.com
+xflight.xboxlive.com
+xkms.xbolive.com
+xkms.xboxlive.com
+xsts.auth.xboxlive.com
+## YouTube HIstory
+zeustracker.abuse.ch
