@@ -17,6 +17,7 @@ git add .
 # commit
 git commit -f blacklist.txt
 git commit -F valiceemo-whitelist.txt
+git rm --cached valiceemo-regex.list
 git commit -Fm "auto push" valiceemo-regex.list
 
 # push to github
