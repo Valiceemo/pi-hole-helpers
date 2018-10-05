@@ -15,8 +15,9 @@ cp /etc/pihole/regex.list valiceemo-regex.list
 git add .
 
 # commit
-git commit -F blacklist.txt
+git commit -f blacklist.txt
 git commit -F valiceemo-whitelist.txt
+git commit -Fm "auto push" valiceemo-regex.list
 
 # push to github
 git push origin master
