@@ -12,7 +12,7 @@ sort /etc/pihole/whitelist.txt | sed '/^$/d' > valiceemo-whitelist.txt
 cp /etc/pihole/regex.list valiceemo-regex.list
 
 # add the new file to git
-git add . -f
+git add .
 
 # commit
 git commit -F blacklist.txt
