@@ -9,7 +9,7 @@ sort /etc/pihole/blacklist.txt | sed '/^$/d' > blacklist.txt
 # sort whitelist, remove blank lines and write to valiceemo-whitelist.txt
 sort /etc/pihole/whitelist.txt | sed '/^$/d' > valiceemo-whitelist.txt
 
-cp /etc/pihole/regex.list valiceemo-regex.list
+#cp /etc/pihole/regex.list valiceemo-regex.list
 
 # add the new file to git
 git add .
