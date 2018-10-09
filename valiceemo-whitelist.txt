@@ -4,6 +4,7 @@ apresolve.spotify.com
 attestation.xboxlive.com
 bitbucket.org
 bit.ly
+cam4.com
 cert.mgt.xboxlive.com
 chrome.google.com
 click.engage.xbox.com
@@ -65,6 +66,7 @@ webcache.googleusercontent.com
 win1710.ipv6.microsoft.com
 winhelp2002.mvps.org
 www.bit.ly
+www.cam4.com
 www.dshield.org
 www.joewein.net
 www.malwaredomainlist.com
