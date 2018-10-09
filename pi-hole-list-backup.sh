@@ -19,4 +19,4 @@ git add blacklist.txt valiceemo-whitelist.txt valiceemo-regex.list
 git commit -m "auto commit" blacklist.txt valiceemo-whitelist.txt valiceemo-regex.list
 
 # push to github
-git push origin master
+git push origin master >/dev/null 2>&1
