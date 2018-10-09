@@ -1,4 +1,3 @@
-###
 adaway.org
 android.clients.google.com
 apresolve.spotify.com
