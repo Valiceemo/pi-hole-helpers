@@ -4,7 +4,6 @@ apresolve.spotify.com
 attestation.xboxlive.com
 bitbucket.org
 bit.ly
-cam4.com
 cert.mgt.xboxlive.com
 chrome.google.com
 click.engage.xbox.com
@@ -36,13 +35,13 @@ licensing.xboxlive.com
 mirror1.malwaredomains.com
 mirror.cedia.org.ec
 ## Misc
+mqtt-mini.facebook.com
 netflix.com
 notify.xboxlive.com
 openphish.com
 ow.ly
 placehold.it
 placeholdit.imgix.net
-pornhub.com
 ransomwaretracker.abuse.ch
 raw.githubusercontent.com
 reddestdream.github.io
@@ -66,7 +65,6 @@ webcache.googleusercontent.com
 win1710.ipv6.microsoft.com
 winhelp2002.mvps.org
 www.bit.ly
-www.cam4.com
 www.dshield.org
 www.joewein.net
 www.malwaredomainlist.com
