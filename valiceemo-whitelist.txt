@@ -52,6 +52,7 @@ spclient.wg.spotify.com
 ## Spotify
 s.youtube.com
 sysctl.org
+tapatalk.com
 title.auth.xboxlive.com
 title.mgt.xboxlive.com
 tomshardware.com
@@ -64,6 +65,7 @@ video-stats.l.google.com
 webcache.googleusercontent.com
 win1710.ipv6.microsoft.com
 winhelp2002.mvps.org
+ws.pusherapp.com
 www.bit.ly
 www.dshield.org
 www.joewein.net
