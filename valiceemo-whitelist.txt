@@ -13,6 +13,7 @@ clients3.google.com
 clients5.google.com
 client-s.gateway.messenger.live.com
 ctldl.windowsupdate.com
+db.tt
 def-vef.xboxlive.com
 device.auth.xboxlive.com
 displaycatalog.mp.microsoft.com
@@ -76,6 +77,7 @@ www.xboxlive.com
 xboxexperiencesprod.experimentation.xboxlive.com
 xbox.ipv6.microsoft.com
 xflight.xboxlive.com
+xhamster.com
 xkms.xbolive.com
 xkms.xboxlive.com
 xsts.auth.xboxlive.com
