@@ -27,6 +27,7 @@ g.live.com
 goo.gl
 ## Google
 google.com
+graph.facebook.com
 help.ui.xboxlive.com
 hosts-file.net
 hostsfile.org
