@@ -2,6 +2,7 @@ adaway.org
 android.clients.google.com
 apresolve.spotify.com
 attestation.xboxlive.com
+b-graph.facebook.com
 bitbucket.org
 bit.ly
 cert.mgt.xboxlive.com
