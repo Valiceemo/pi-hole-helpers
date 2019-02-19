@@ -1,4 +1,5 @@
 adaway.org
+alcpu.com
 android.clients.google.com
 apresolve.spotify.com
 attestation.xboxlive.com
