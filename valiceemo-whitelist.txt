@@ -27,7 +27,6 @@ geo-prod.do.dsp.mp.microsoft.com
 gist.githubusercontent.com
 g.live.com
 goo.gl
-## Google
 google.com
 graph.facebook.com
 help.ui.xboxlive.com
@@ -35,10 +34,8 @@ hosts-file.net
 hostsfile.org
 j.mp
 licensing.xboxlive.com
-## Microsoft
 mirror1.malwaredomains.com
 mirror.cedia.org.ec
-## Misc
 mqtt-mini.facebook.com
 netflix.com
 notify.xboxlive.com
@@ -53,14 +50,12 @@ s3.amazonaws.com
 settings-win.data.microsoft.com
 someonewhocares.org
 spclient.wg.spotify.com
-## Spotify
 s.youtube.com
 sysctl.org
 tapatalk.com
 title.auth.xboxlive.com
 title.mgt.xboxlive.com
 tomshardware.com
-## URL Shorteners
 v10.events.data.microsoft.com
 v10.vortex-win.data.microsoft.com
 v20.vortex-win.data.microsoft.com
@@ -76,7 +71,6 @@ www.joewein.net
 www.malwaredomainlist.com
 www.msftncsi.com
 www.xboxlive.com
-## X-Box
 xboxexperiencesprod.experimentation.xboxlive.com
 xbox.ipv6.microsoft.com
 xflight.xboxlive.com
@@ -84,5 +78,4 @@ xhamster.com
 xkms.xbolive.com
 xkms.xboxlive.com
 xsts.auth.xboxlive.com
-## YouTube HIstory
 zeustracker.abuse.ch
