@@ -36,6 +36,7 @@ j.mp
 licensing.xboxlive.com
 mirror1.malwaredomains.com
 mirror.cedia.org.ec
+mobile.events.data.microsoft.com
 mqtt-mini.facebook.com
 netflix.com
 notify.xboxlive.com
