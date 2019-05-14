@@ -48,7 +48,6 @@ ransomwaretracker.abuse.ch
 raw.githubusercontent.com
 reddestdream.github.io
 s3.amazonaws.com
-settings.data.microsoft.com
 settings-win.data.microsoft.com
 someonewhocares.org
 spclient.wg.spotify.com
@@ -63,7 +62,6 @@ v10.vortex-win.data.microsoft.com
 v20.vortex-win.data.microsoft.com
 v.firebog.net
 video-stats.l.google.com
-vortex.data.microsoft.com
 webcache.googleusercontent.com
 win1710.ipv6.microsoft.com
 winhelp2002.mvps.org
