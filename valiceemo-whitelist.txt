@@ -18,6 +18,7 @@ ctldl.windowsupdate.com
 db.tt
 def-vef.xboxlive.com
 device.auth.xboxlive.com
+deviceportal.nettvservices.com
 displaycatalog.mp.microsoft.com
 dl.delivery.mp.microsoft.com
 edge-mqtt.facebook.com
@@ -40,6 +41,7 @@ mobile.events.data.microsoft.com
 mqtt-mini.facebook.com
 netflix.com
 notify.xboxlive.com
+nrdp.nccp.netflix.com
 openphish.com
 ow.ly
 placehold.it
