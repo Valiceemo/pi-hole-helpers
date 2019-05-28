@@ -70,6 +70,7 @@ winhelp2002.mvps.org
 ws.pusherapp.com
 www.bit.ly
 www.dshield.org
+www.ecdinterface.philips.com
 www.joewein.net
 www.malwaredomainlist.com
 www.msftncsi.com
