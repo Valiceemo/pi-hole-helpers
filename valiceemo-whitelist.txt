@@ -6,6 +6,7 @@ attestation.xboxlive.com
 b-graph.facebook.com
 bitbucket.org
 bit.ly
+cam4.com
 cert.mgt.xboxlive.com
 chrome.google.com
 click.engage.xbox.com
@@ -69,6 +70,7 @@ win1710.ipv6.microsoft.com
 winhelp2002.mvps.org
 ws.pusherapp.com
 www.bit.ly
+www.cam4.com
 www.dshield.org
 www.ecdinterface.philips.com
 www.joewein.net
