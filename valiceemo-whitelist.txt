@@ -11,6 +11,7 @@ cert.mgt.xboxlive.com
 chrome.google.com
 click.engage.xbox.com
 clientconfig.passport.net
+clients1.google.com
 clients2.google.com
 clients3.google.com
 clients5.google.com
