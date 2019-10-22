@@ -47,6 +47,8 @@ openphish.com
 ow.ly
 placehold.it
 placeholdit.imgix.net
+pornhub
+pornhub.com
 ransomwaretracker.abuse.ch
 raw.githubusercontent.com
 reddestdream.github.io
