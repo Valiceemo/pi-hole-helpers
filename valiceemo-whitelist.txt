@@ -78,6 +78,7 @@ www.ecdinterface.philips.com
 www.joewein.net
 www.malwaredomainlist.com
 www.msftncsi.com
+www.pornhub.com
 www.xboxlive.com
 xboxexperiencesprod.experimentation.xboxlive.com
 xbox.ipv6.microsoft.com
