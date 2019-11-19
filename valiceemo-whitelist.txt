@@ -48,8 +48,6 @@ openphish.com
 ow.ly
 placehold.it
 placeholdit.imgix.net
-pornhub
-pornhub.com
 ransomwaretracker.abuse.ch
 raw.githubusercontent.com
 reddestdream.github.io
@@ -80,6 +78,7 @@ www.malwaredomainlist.com
 www.msftncsi.com
 www.pornhub.com
 www.xboxlive.com
+www.xhamster.com
 xboxexperiencesprod.experimentation.xboxlive.com
 xbox.ipv6.microsoft.com
 xflight.xboxlive.com
