@@ -26,6 +26,7 @@ dl.delivery.mp.microsoft.com
 edge-mqtt.facebook.com
 eds.xboxlive.com
 extensions.gnome.org
+gcs.sc-cdn.net
 geo-prod.do.dsp.mp.microsoft.com
 gist.githubusercontent.com
 g.live.com
