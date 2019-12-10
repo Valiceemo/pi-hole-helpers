@@ -79,11 +79,9 @@ www.malwaredomainlist.com
 www.msftncsi.com
 www.pornhub.com
 www.xboxlive.com
-www.xhamster.com
 xboxexperiencesprod.experimentation.xboxlive.com
 xbox.ipv6.microsoft.com
 xflight.xboxlive.com
-xhamster.com
 xkms.xbolive.com
 xkms.xboxlive.com
 xsts.auth.xboxlive.com
