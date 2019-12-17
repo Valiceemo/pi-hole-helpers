@@ -15,3 +15,5 @@
 ^telemetry[-.]
 ^track(ers?|ing)?[0-9]*[-.]
 ^traff(ic)?[-.]
+^[0-9][^a-z]+\.((com)|(edu)|(org)|(co.uk)|(net))$
+
