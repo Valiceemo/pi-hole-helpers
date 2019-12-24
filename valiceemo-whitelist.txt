@@ -3,6 +3,7 @@ alcpu.com
 android.clients.google.com
 app-measurement.com
 apresolve.spotify.com
+arc.msn.com
 attestation.xboxlive.com
 b-graph.facebook.com
 bitbucket.org
@@ -67,6 +68,7 @@ v10.vortex-win.data.microsoft.com
 v20.vortex-win.data.microsoft.com
 v.firebog.net
 video-stats.l.google.com
+vortex.data.microsoft.com
 webcache.googleusercontent.com
 win1710.ipv6.microsoft.com
 winhelp2002.mvps.org
