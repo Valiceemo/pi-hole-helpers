@@ -8,6 +8,7 @@ attestation.xboxlive.com
 b-graph.facebook.com
 bitbucket.org
 bit.ly
+browser.events.data.microsoft.com
 cert.mgt.xboxlive.com
 chrome.google.com
 click.engage.xbox.com
@@ -54,6 +55,7 @@ ransomwaretracker.abuse.ch
 raw.githubusercontent.com
 reddestdream.github.io
 s3.amazonaws.com
+settings.data.microsoft.com
 settings-win.data.microsoft.com
 someonewhocares.org
 spclient.wg.spotify.com
