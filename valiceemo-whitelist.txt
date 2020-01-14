@@ -38,6 +38,7 @@ graph.facebook.com
 help.ui.xboxlive.com
 hosts-file.net
 hostsfile.org
+i.ytimg.com
 j.mp
 licensing.xboxlive.com
 mirror1.malwaredomains.com
