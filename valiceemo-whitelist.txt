@@ -66,6 +66,8 @@ tapatalk.com
 title.auth.xboxlive.com
 title.mgt.xboxlive.com
 tomshardware.com
+tracker.cyberia.is
+tracker.opentrackr.org
 v10.events.data.microsoft.com
 v10.vortex-win.data.microsoft.com
 v20.vortex-win.data.microsoft.com
