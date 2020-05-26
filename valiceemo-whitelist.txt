@@ -1,4 +1,5 @@
 adaway.org
+ads-serve.brave.com
 alcpu.com
 android.clients.google.com
 app-measurement.com
@@ -70,6 +71,7 @@ tracker.cyberia.is
 tracker.opentrackr.org
 v10.events.data.microsoft.com
 v10.vortex-win.data.microsoft.com
+v20.events.data.microsoft.com
 v20.vortex-win.data.microsoft.com
 v.firebog.net
 video-stats.l.google.com
