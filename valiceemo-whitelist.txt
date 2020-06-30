@@ -19,6 +19,7 @@ clients2.google.com
 clients3.google.com
 clients5.google.com
 client-s.gateway.messenger.live.com
+cooperativegroup.demdex.net
 ctldl.windowsupdate.com
 db.tt
 def-vef.xboxlive.com
