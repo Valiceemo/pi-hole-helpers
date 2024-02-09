@@ -6,12 +6,16 @@
 # Created by Valiceemo
 #================================================================================
 
-VERSION="002"
+VERSION="003"
 
 TICK="[\e[32m ✓ \e[0m]"
 INFO="[ i ]"
 CROSS="[\e[31m x \e[0m]"
 AVAILABLE=`curl -s https://www.internic.net/domain/named.root | grep version | cut -d ':' -f 2 | tr -d ' '`
+
+clear
+sleep 1.0
+
 echo " "
 echo -e "\e[1m This script will download the latest root.hints file for unbound \e[0m"
 sleep 0.5
